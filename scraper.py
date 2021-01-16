@@ -1,4 +1,8 @@
 """ 
+PyJaC Submission
+
+Prompt - "Build a Web Scraper"
+
 Web Scraper for anime from MAL [myanimelist]. Given some string input,
 searches it on the [myanimelist] website and returns details 
 regarding the closest matching anime
